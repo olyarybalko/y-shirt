@@ -11,6 +11,10 @@ Introduction. Thee-state-of-the-art. Google search using keywords "scoliosis and
 Materials and methods:
 
 
+In our work we are interested in prototype of t-shirt instrumented by several MEMS sensor for spinal curbature detection ( proposed t-shirt can be used in the context of eldery care as  fall detector, postural transition, walking analysis or dayly activities logger).
+
+We use the Arduino-compatible  Wearable electronic platform FLORA [3] and 2 acelerometers. 
+
 References (APA)
 
 
@@ -19,3 +23,8 @@ References (APA)
 
 [2] Wong, W. Y. and Wong, M. S. (2008). Smart garment for trunk posture monitoring: A preliminary study. Scoliosis, 3(1):7.
 http://10.1186/1748-7161-3-7
+
+[3] https://www.adafruit.com/product/659, https://github.com/adafruit/Adafruit-Flora-Mainboard.git
+
+We use the Arduino-compatible  Wearable electronic platform FLORA and 2 acelerometers. 
+
