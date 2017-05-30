@@ -36,3 +36,11 @@ http://10.1186/1748-7161-3-7
 
 [3] https://www.adafruit.com/product/659, https://github.com/adafruit/Adafruit-Flora-Mainboard.git
 
+Appendix A.
+Important question to solve before starting second part of progect:
+1. what is the autonomy of proposed device?
+2. Were to put the BLE on the human upper body?
+3. How much accelerometers nedeed to define skoleosis/kyphosys/fall/ et ect.?
+4. Efficiency of cardiosensor.
+
+
