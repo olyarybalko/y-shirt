@@ -55,5 +55,7 @@ Appendix B.
 We need to use the componets for increase the price and to miniaturize the setup:
 IMU
 http://fr.rs-online.com/web/p/accelerometres/8837942/
+Flexible
+https://www.pcbcart.com/pcb-fab/flexible-pcb.html
 
 
