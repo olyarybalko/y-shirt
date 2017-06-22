@@ -40,13 +40,20 @@ http://10.1186/1748-7161-3-7
 [3] https://www.adafruit.com/product/659, https://github.com/adafruit/Adafruit-Flora-Mainboard.git
 
 Appendix A.
+
 An important question to solve before starting the second part of the project:
-1. what is the autonomy of proposed device?
+1. What is the autonomy of proposed device?
 2. Where to put the BLE on the human upper body?
 3. How many accelerometers needed to define skoleosis/kyphosys/fall/ et ect.?
 4. The efficiency of cardio-sensor.
 5. How many measures do we need to be energy optimal and still efficient?
 6. How to wash instrumented t-shirt?
 7. Stress - fatigue measures.
+
+Appendix B.
+
+We need to use the componets for increase the price and to miniaturize the setup:
+IMU
+http://fr.rs-online.com/web/p/accelerometres/8837942/
 
 
