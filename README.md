@@ -18,6 +18,7 @@ We use the Arduino-compatible  Wearable electronic platform FLORA [2] and two ac
 
 #Results
 
+
 #Conclusion
 
 
@@ -36,15 +37,16 @@ An important question to solve before starting the second part of the project:
 1. What is the autonomy of proposed device?
 2. Where to put the BLE on the human upper body?
 3. How many accelerometers needed to define skoleosis/kyphosys/fall/ et ect.?
-4. The efficiency of cardio-sensor.
+4. The efficiency of cardio-sensor in daily-living activities.
 5. How many measures do we need to be energy optimal and still efficient?
 6. How to wash instrumented t-shirt?
-7. Stress - fatigue measures.
+7. Stress - fatigue indirect/direct measures.
 
 Appendix B.
 
-We need to use the componets for increase the price and to miniaturize the setup:
+We need to use the components that increase the price and to miniaturize the setup:
 IMU
+
 
 http://fr.rs-online.com/web/p/accelerometres/8837942/
 
