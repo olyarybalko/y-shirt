@@ -9,7 +9,7 @@ Video available from https://youtu.be/TVujWudcW5w
 
 The postural deviation is an important sign of musculoskeletal system balance problems, fatigue or discomfort during sitting. To prevent the effect of frequent deviation of posture, a smart garment with integrated accelerometers and gyroscopes, which can detect postural changes regarding sagittal and coronal planes of curvature variation of the spine, has been developed with an intention to facilitate posture training in [1]. The smart garment was tested in laboratory tests and with five healthy subjects during their daily activities and confirmed that the accuracy of the system is < 1° in static and < 1.5° in dynamic tilting measurements. The results presented in [1] show that the intelligent wearable device facilitates subjects to prevent prolonged abnormal postures of the spine, particularly the posture of the lumbar spine in which at least 40% of the time in a normal posture was reduced.
 
-This fast exploration means that accelerometer, that senses the static acceleration of gravity for tilt-sensing applications is sufficient and is accepted for the medical application.
+This fast exploration shows that an accelerometer, that senses the static acceleration of gravity for tilt-sensing applications is sufficient and is accepted for the medical application.
 
 #Materials and methods:
 
